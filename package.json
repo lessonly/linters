@@ -19,7 +19,4 @@
     "url": "https://github.com/lessonly/linters/issues"
   },
   "homepage": "https://github.com/lessonly/linters#readme",
-  "dependencies": {
-    "@lessonly/eslint-config": "0.0.2"
-  }
 }
